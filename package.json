@@ -24,6 +24,7 @@
     "moment": "^2.29.1",
     "my-lib": "file:node_modules/angular-library/my-lib-0.0.1.tgz",
     "rxjs": "~6.6.0",
+    "sip.js": "^0.17.1",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
   },

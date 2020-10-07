@@ -19,6 +19,9 @@
     "paths": {
       "moment": [
         "./node_modules/moment"
+      ],
+      "sip.js": [
+        "./node_modules/sip.js"
       ]
     }
   }
